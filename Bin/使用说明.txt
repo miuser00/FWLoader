@@ -1,0 +1,24 @@
+"ESP32 Downloader"
+
+   -v或者--version	Show version
+   -t或者--target	Chip型号:esp32c3,esp32s3  
+   -f或者--fs    	下载脚本  
+   -r或者--rom  	下载底层固件  
+   -p或者--pkg     	下载文件的格式为SOC  
+
+   -c或者--com 	下载串口  
+   -b或者--bandrate 	波特率  
+   -l或者--load 	固件文件名称  
+   -s或者--script 	脚本文件夹名称 
+   -m或者--make	将soc文件与外部脚本重新打包为新的soc
+
+   --FsOffset  	FsOffset，固定设置  
+   --FsSize  	FsSize  ，固定设置  
+   --LuadbOffset 	LuadbOffset，固定设置  
+  
+   --usb     	usb通讯  
+   --uart     	uart通讯
+
+例子：写入完整的soc量产文件（含固件和脚本）：
+
+esp32dl -p -t esp32c3 -rf -c COM18 -b 921600 -l LuatOS-SoC_V0003_ESP32C3_USB.soc --FsOffset 0x390000 --FsSize 0x70000 --LuadbOffset 0x310000 --usb

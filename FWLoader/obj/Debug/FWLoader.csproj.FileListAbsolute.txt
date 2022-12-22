@@ -1,0 +1,16 @@
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\Bin\FWLoader.exe.config
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\Bin\FWLoader.exe
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\Bin\FWLoader.pdb
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\Bin\Nett.dll
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\Bin\Nett.xml
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\obj\Debug\FWLoader.Form1.resources
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\obj\Debug\FWLoader.Properties.Resources.resources
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\obj\Debug\FWLoader.csproj.GenerateResource.cache
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\obj\Debug\FWLoader.csproj.CoreCompileInputs.cache
+C:\OneDrive\project\LuaboardStudio\FWLoader\Bin\FWLoader.exe.config
+C:\OneDrive\project\LuaboardStudio\FWLoader\Bin\FWLoader.exe
+C:\OneDrive\project\LuaboardStudio\FWLoader\Bin\FWLoader.pdb
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\obj\Debug\FWLoader.csproj.CopyComplete
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\obj\Debug\FWLoader.exe
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\obj\Debug\FWLoader.pdb
+C:\OneDrive\project\LuaboardStudio\FWLoader\FWLoader\obj\Debug\FWLoader.csproj.AssemblyReference.cache

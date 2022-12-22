@@ -1,0 +1,23 @@
+
+[uart]
+Baud = 115200
+# use "even","odd" or "none"
+Parity = "none"
+DataBits = 8
+# use 1,2 or 15 ,15 stand for one and half
+StopBits = 1
+
+[firmware]
+Firmware = "luatos_esp32.bin"
+Script = "script.bin"
+FsOffset = "0x390000"
+FsSize = "0x70000"
+LuadbOffset = "0x310000"
+
+[app]
+FirmwareFile = "C:\\OneDrive\\project\\LuaStudio\\FWLoader\\Bin\\LuatOS-SoC_V0003_ESP32C3.soc"
+ScriptPath = "C:\\OneDrive\\project\\LuaStudio\\pytools\\lvgldemo"
+ScriptLocation = "local"
+AutoDownloadFirmware = false
+AutoDownloadScript = false
+AutoFindESPCOM = true
